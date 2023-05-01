@@ -20,7 +20,7 @@ Before starting, you must have a code editor installed on your machine, such as 
 
 ## 💻Installation
 
-1. Clone the repository: git clone `https://github.com/TiagoCoder2022/mundo-invertido.git`
+1. Clone the repository: git clone `https://github.com/TiagoCoder2022/app-personal-budget`
 2. Open the `index.html` file in your internet browser.
 
 ## Usage
@@ -38,7 +38,7 @@ By opening the `index.html` file in your internet browser, you will have access 
 </div>
 
 ## 🔗 Link
-  [Site demo](https://tiagocoder2022.github.io/mundo-invertido/)
+  [Site demo](https://tiagocoder2022.github.io/app-personal-budget/index.html)
 
 
 ## Contributing
